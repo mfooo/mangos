@@ -39,6 +39,7 @@
 
 #include <bitset>
 #include <list>
+#include <set>
 
 class Creature;
 class Unit;
